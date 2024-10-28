@@ -5,7 +5,7 @@
 - [x] Deploy
 - [x] Basic UI with mock data
 - [x] Database
-- [] Attach database to UI
+- [x] Attach database to UI
 - [] Authentication
 - [] Image upload
 - [] Error management (Sentry)
