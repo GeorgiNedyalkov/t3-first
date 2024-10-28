@@ -9,8 +9,8 @@ async function Images() {
     <div className="flex flex-wrap gap-4">
       {images.map((image) => (
         <div key={image.id} className="w-64">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src={image.url} alt="image" />
+          <div>{image.name}</div>
         </div>
       ))}
     </div>
