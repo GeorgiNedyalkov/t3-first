@@ -2,8 +2,8 @@
 
 ## TODO
 
-- [] Deploy
-- [] Basic UI
+- [x] Deploy
+- [x] Basic UI with mock data
 - [] Database
 - [] Attach database to UI
 - [] Authentication
