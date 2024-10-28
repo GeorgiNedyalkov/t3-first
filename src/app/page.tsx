@@ -1,6 +1,5 @@
 import { SignedIn, SignedOut } from "@clerk/nextjs";
-import { db } from "~/server/db";
-import { getImages } from "~/server/queries/queries";
+import { getImages } from "~/server/db/queries";
 
 async function Images() {
   const images = await getImages();
