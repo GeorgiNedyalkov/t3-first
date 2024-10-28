@@ -4,7 +4,7 @@
 
 - [x] Deploy
 - [x] Basic UI with mock data
-- [] Database
+- [x] Database
 - [] Attach database to UI
 - [] Authentication
 - [] Image upload
@@ -17,3 +17,4 @@
 
 - Hosting images locally is bad for bandwitdh
 - Using margin is not great grid seems like a good recommendation
+- Use git add -p
