@@ -12,3 +12,8 @@
 - [] Routing / image page
 - [] Delete button (Server ACtions)
 - [] Analytics
+
+## Notes
+
+- Hosting images locally is bad for bandwitdh
+- Using margin is not great grid seems like a good recommendation
